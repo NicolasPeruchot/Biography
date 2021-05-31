@@ -66,7 +66,7 @@ while delta > 0.01:
         writer("\r Batch number : " + str(i+1) + "/" + str(num_of_batches))
     
     training_loss=training_loss/int(num_of_batches)
-    print('Epoch: {} , Running loss: {}'.format(k,training_loss))
+    print('Epoch: {} , Running loss: {}'.format(epoch,training_loss))
 
     training_loss_history.append(list_loss)
     mean_training_loss_history.append(np.mean(list_loss))
