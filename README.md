@@ -1,14 +1,7 @@
-##Librairies :
+# Automatic Biography Creator 
 
-pandas
-math
-sys
-tensorflow
-transformers
+## About 
 
-##Fonctionnement :
+A.B.C is an NLP project.
 
-Placer le dataset ("New_dataset_time") et le script training.py dans le même dossier.
-Executer training.py dans ce dossier commun.
-A la fin de l'execution, un dossier "model" contenant le modèle
-entrainé est créé dans le dossier commun.
+The goal is to generate short biographies with few informations found on WikiData, using up-to-date models.
