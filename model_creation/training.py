@@ -7,7 +7,7 @@ import sys
 writer = sys.stdout.write
 
 #Chargement des données, récupération des données d'entrainement
-data = pd.read_csv('New_dataset_time.csv',index_col=0)
+data = pd.read_csv('new_dataset.csv',index_col=0)
 n = int(0.8*data.shape[0])
 df_train = data.iloc[:n,1:]
 df_label = data.iloc[:n,0:1]
