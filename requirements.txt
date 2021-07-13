@@ -3,3 +3,4 @@ tensorflow
 pandas
 transformers
 scikit-learn
+progressbar2
