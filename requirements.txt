@@ -4,3 +4,4 @@ pandas
 transformers
 scikit-learn
 progressbar2
+streamlit
