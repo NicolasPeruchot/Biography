@@ -30,8 +30,9 @@ st.write(desc)
 name = st.text_input('Name')
 job = st.text_input('Job')
 country = st.text_input('Country')
+organisation = st.text_input('Org')
 
-val=name+'|'+job+'|'+country
+val=name+'|'+job+'|'+country+'|'+organisation
 
 def generate(text):
     toke=tokenizer(text, return_tensors="tf").input_ids
