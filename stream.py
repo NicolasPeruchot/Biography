@@ -21,7 +21,7 @@ val='|'.join(A)
 
 
 
-# desc = "Bio"
+desc = "Bio"
 
 st.title('Biography')
 st.write(desc)
