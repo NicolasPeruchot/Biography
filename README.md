@@ -1,5 +1,9 @@
 # Automatic Biography Creator 
 
+<p align="center">
+<img src="https://github.com/NicolasPeruchot/Biography/blob/main/Example.jpg" alt="drawing" width="200"/>
+</p>
+
 ## About 
 
 A.B.C is an NLP project.
