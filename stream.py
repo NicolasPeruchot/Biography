@@ -4,7 +4,7 @@ from transformers import T5TokenizerFast, TFT5ForConditionalGeneration
 
 @st.cache(allow_output_mutation=True)
 def mod():
-    return TFT5ForConditionalGeneration.from_pretrained("./model")
+    return TFT5ForConditionalGeneration.from_pretrained("NicolasPeruchot/Biography")
 
 model = mod()
 
