@@ -29,8 +29,8 @@ st.write(desc)
 
 name = st.text_input('Name')
 job = st.text_input('Job')
-country = st.text_input('Country')
-organisation = st.text_input('Org')
+country = st.text_input('Nationality')
+organisation = st.text_input('Organization')
 
 val=name+'|'+job+'|'+country+'|'+organisation
 
