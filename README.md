@@ -4,7 +4,7 @@
 
 
 <p align="center">
-<img src="https://github.com/NicolasPeruchot/Biography/blob/main/Example.png" alt="drawing" width="500"/>
+<img src="https://github.com/NicolasPeruchot/Biography/blob/main/model/Example.png" alt="drawing" width="500"/>
 </p>
 
 ## About 
