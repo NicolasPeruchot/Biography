@@ -21,7 +21,7 @@ The work in this repo is divided in three part:
 
 ## Usage
 
-The model has been uploaded [as a HuggingFace repository](https://huggingface.co/NicolasPeruchot/Biography) and the application is implemented with [Streamlit](https://share.streamlit.io/nicolasperuchot/biography/main/steamlit/stream.py).
+The model has been uploaded [as a HuggingFace repository](https://huggingface.co/NicolasPeruchot/Biography) and the application is implemented with [Streamlit](https://share.streamlit.io/nicolasperuchot/biography/main/streamlit/stream.py).
 
 
 ## Development
